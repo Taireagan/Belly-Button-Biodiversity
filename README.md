@@ -16,7 +16,7 @@
 ---
 
 ## Background
-This project involves building an interactive dashboard to explore the [Belly Button Biodiversity dataset](https://robdunnlab.com/projects/belly-button-biodiversity/),nd in different individuals. Interestingly, the study reveals that while a small number of microbial species are present in over 70% of people, most species are relatively rare.
+This project involves building an interactive dashboard to explore the [Belly Button Biodiversity dataset](https://robdunnlab.com/projects/belly-button-biodiversity/) dataset, which catalogs the microbes that colonize human navels. The dataset provides insights into microbial diversity by identifying operational taxonomic units (OTUs) found in different individuals. Interestingly, the study reveals that while a small number of microbial species are present in over 70% of people, most species are relatively rare.
 
 The interactive dashboard allows users to visualize and analyze this data, making it easier to explore which microbial species are common or rare across individuals. Through dynamic charts and informative panels, users can dive into the microbial makeup of belly buttons and better understand human microbiome diversity.
 
@@ -70,3 +70,11 @@ Finally updated all the plots when a new sample is selected and deployed app to 
 
 ![visualization](https://github.com/Taireagan/Belly-Button-Biodiversity/blob/main/Images/visualization.png)
 
+
+
+### References:
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. 
+
+Retrieved from:
+
+[RThe Public Science Lab](https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
