@@ -9,6 +9,59 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 </head>
 
+<style>
+  /* Styling the Demographic Info Panel */
+  .card-primary {
+    border: 1px solid #337ab7;           /* Light border around the card */
+    border-radius: 5px;               /* Rounded corners for the card */
+    width: 100%;                      /* Ensure it takes full width of column */
+  }
+
+  .card-header {
+    background-color: #337ab7;        /* Blue background for the header */
+    color: white;                     /* White text for the header */
+    padding: 10px;                    /* Padding inside the header */
+    border-top-left-radius: 5px;      /* Rounded top-left corner */
+    border-top-right-radius: 5px;     /* Rounded top-right corner */
+  }
+
+  .card-title {
+    margin: 0;                        /* Remove extra margins in the title */
+    font-size: 16px;                  /* Adjust font size */
+  }
+
+  .card-body {
+    background-color: white;          /* White background for the content */
+    padding: 15px;                    /* Add padding around the content */
+    border-bottom-left-radius: 5px;   /* Rounded bottom-left corner */
+    border-bottom-right-radius: 5px;  /* Rounded bottom-right corner */
+  }
+
+  /* Style for the demographic data inside the panel */
+  #sample-metadata {
+    font-family: Arial, sans-serif;   /* Simple and readable font */
+    font-size: 14px;                  /* Set font size */
+    color: black;                     /* Black text for demographic info */
+  }
+
+  #sample-metadata p {
+    margin: 5px 0;                    /* Spacing between paragraphs */
+  }
+
+  #sample-metadata strong {
+    font-weight: bold;                /* Make the labels bold */
+  }
+
+  /* Styling for the anchor links inside the demographic info */
+  #sample-metadata a {
+    color: #337ab7;                   /* Blue color for links (consistent with the header) */
+    text-decoration: none;            /* No underline for the links */
+  }
+
+  #sample-metadata a:hover {
+    text-decoration: underline;       /* Underline on hover */
+  }
+</style>
 <body>
 
   <div class="container">
