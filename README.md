@@ -77,4 +77,4 @@ Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly 
 
 Retrieved from:
 
-[RThe Public Science Lab](https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
+[The Public Science Lab](https://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
